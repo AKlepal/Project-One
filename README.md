@@ -11,7 +11,7 @@ Our group consists of:
 
 We decided to choose a fun project involving Game of Thrones, as the show is one of the biggest pop culture phenomenons in television in the last few decades. It is consistently mentioned in the greatest shows of all time conversation, and rightfully so. Being that everyone in our group are fans of the show, it was intriguing for each of us to dig deeper into it.
 
-TOPICS COVERED
+## TOPICS COVERED
 - Battle strategy used, and how frequently those strategies were used
 - Which kings where most noble, and fought beside their men
 - What were the likeliest causes of death in Westeros
@@ -21,7 +21,8 @@ TOPICS COVERED
 	- Who where the top 5 individual human killers in the same area
 - What allegiances had the highest death rates in the most dangerous areas
 
-#NOTE ABOUT THE DATASET
+## NOTE ABOUT THE DATASET
+
 Please see the below for credit of the main dataset used for death data. Shelly Tan, the creator of the dataset, is a graphics reporter specializing in data visualization, illustrations and pop culture.
 
 Main Dataset Source:
@@ -35,4 +36,4 @@ With a dataset like this there are so many variables, that a methodology must be
 -	Another decision that was made for this dataset was that if a character orders the death of another, the character who does the direct killing receives credit; not the one who orders the kill. But for cases where the direct killer is unidentifiable, like when Cersei Lannister uses the caches of wildfire to blow up the Great Sept of Baelor, the order giver receives the credit.
 It is also noted that for big battles such as the Battle of the Bastards, it is often unclear which side a soldier being killed belongs to. Educated guesses were made based on the details like the shape of a helmet a soldier is wearing, along with other things like sigils that can be seen on armor.
 
-Please enjoy!
+We hope you enjoy reviewing the data as much as we enoyed mining it!
