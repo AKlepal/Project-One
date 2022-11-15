@@ -21,7 +21,7 @@ TOPICS COVERED
 	- Who where the top 5 individual human killers in the same area
 - What allegiances had the highest death rates in the most dangerous areas
 
-NOTE ABOUT THE DATASET
+#NOTE ABOUT THE DATASET
 Please see the below for credit of the main dataset used for death data. Shelly Tan, the creator of the dataset, is a graphics reporter specializing in data visualization, illustrations and pop culture.
 
 Main Dataset Source:
